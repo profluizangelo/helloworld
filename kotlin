@@ -1,0 +1,4 @@
+let languages = ["Swift", "Objective-C", "Kotlin"]
+for language in languages {
+    print("Eu prefiro programar em \(language)")
+}
