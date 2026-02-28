@@ -1,0 +1,8 @@
+// Programa Hello, World! em Swift
+import Foundation
+
+func saudacao() {
+    print("Hello, World!")
+}
+
+saudacao()
